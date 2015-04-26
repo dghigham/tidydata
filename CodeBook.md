@@ -10,6 +10,7 @@ Dean Higham, April 2015
 ==================================================================
 
 Background information on the purpose and design of the project, as well as the data collection process of the raw data are shown in the README.md file.
+
 -------------------------------------------------
 
 Creation of the tidy summary output data
