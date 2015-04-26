@@ -1,9 +1,7 @@
 ==================================================================
-run_analysis R Script for generating a summary dataset of the "Human Activity Recognition Using Smartphones" Dataset
-
-Developed for the project of the Coursera Getting and Cleaning Data course
-
+R Script for generating a summary dataset of the "Human Activity Recognition Using Smartphones" Data
 ==================================================================
+Developed for the project of the Coursera Getting and Cleaning Data course
 Dean Higham, April 2015
 
 ==================================================================
